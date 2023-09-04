@@ -1,0 +1,269 @@
+.body{
+    width: 100%;
+}.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navlog{
+    margin: 0;
+}
+
+.nav-content{
+    margin: 10px;
+        width: auto;
+        padding: 10px 10px 10px 40px;
+        align-items: center;
+        height: 30px;
+        display: flex;
+        gap: 10px;
+        border: 1px solid lightgrey;
+        border-radius: 30px;
+}
+.btn{
+    width: 30px !important;
+    height: 30px !important;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    background-color:#FF3E61 ;
+    border: none;
+    justify-content: center;
+    
+
+}
+
+.i1p{
+    margin: 0;
+}
+
+.last-content{
+    
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.divider{
+    border-right: 1px solid lightgrey;
+    height:25px ;
+}
+.pa{
+    font-size: 10px;
+    width: 100px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px;
+    padding: 30px;
+    border-top: 1px solid lightgrey;
+    border-radius: 1px;
+    width: 95vw;
+    align-items: center;
+    text-align: center;
+
+
+}
+.btn1{
+        width: 30px !important;
+            height: 30px !important;
+            border-radius: 50%;
+            
+            align-items: center;
+            background-color:white;
+            border: 1px solid lightgray;
+            
+}
+.btn2{
+border: 1px solid lightgrey;
+border-radius:10px ;
+display: flex;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+text-align: center;
+}
+.bar{
+    margin: 0px auto;
+        width: 40%;
+        padding: 10px 10px 10px 0px;
+        align-items: center;
+        height: 40px;
+        display: flex;
+        /* justify-content: space-between; */
+        gap:5px;
+        border: 1px solid rgba(201, 194, 194, 0.984);
+        border-radius: 10px;
+        position: relative;
+               
+}
+
+.divs{
+    display: flex;
+    width: 70%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+svg{
+    margin-left: 150px;
+    
+}
+.cards{
+
+    width: 300px;
+    margin: 25px;
+    border: 0px solid lightgray;
+    border-radius:10px ;
+    position: relative;
+}
+.img{
+    width: 100%;
+    
+    border-radius: 10px;
+}
+.card{
+    position: absolute;
+    top: 15px;
+    right: 20px;
+
+}
+.con{
+    margin:-15px 10px;
+    padding: 0px;
+    font-size: 16px;
+    line-height: 0px;
+}
+
+.main-con{
+    display: flex;
+    justify-content: space-between;
+}
+
+.p{
+    color: gray;
+
+}
+.heart{
+    color:#485974 ;
+}
+.cards-m{
+    display: flex;
+    justify-content: space-evenly;
+}
+.continue{
+
+    text-align: center;
+    
+}
+.more{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 18px;
+    border-radius: 10px;
+    width: 130px;
+   
+    text-align: center;
+   
+    font-size: 16px;
+    
+
+}
+.for-future{
+    
+    
+   
+    background-color:#F7F7F7 ;
+    
+    
+
+}
+.divi{
+    border: 1px solid lightgray;
+    
+}
+.flex{
+    display: flex;
+    gap:15px;
+    color: gray;
+}
+.sriramlu{
+    padding: 10px;
+    background-color:#F7F7F7 ;
+}
+
+.mijas{
+    margin-right: 100px;
+    border: 0PX solid gray;
+    display: flex;
+    gap: 100px;
+    padding: 0px 80px;
+   justify-content: space-between;
+    
+   
+    background-color:#F7F7F7 ;
+    
+   
+}
+
+.ratting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: baseline;
+  }
+
+  .star{
+    margin: 0;
+  }
+  .show-map{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+        border: none;
+        background-color: black;
+        color: white;
+        padding: 15px;
+        border-radius: 50px;
+        width: 130px;
+    
+        text-align: center;
+    
+        font-size: 16px;
+        position:fixed;
+        top: 90%;
+        left: 46%;
+    
+  }
+  .svg{
+    display: flex;
+    align-items: center;
+  }
+  .last-one{
+    display: flex;
+    gap: 200px;
+    margin-left: 85px;
+    padding: 20px;
+    
+    
+  }
+  .lastone{
+    background-color: #F7F7F7;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+  }
+  .f3{
+    display: flex;
+    gap: 10px;
+  }
+  svg{
+    margin: 0;
+  }
